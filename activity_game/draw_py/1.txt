@@ -1,0 +1,3 @@
+pyinstaller main2.py ^
+  --onefile --windowed ^
+  --add-data "8.png;."
